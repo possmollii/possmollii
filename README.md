@@ -4,6 +4,7 @@
 
 🌎 Москва, Россия  
 📧 st_mironn@mail.ru
+
 📲 Telegram: @possmollii
 
 ---
