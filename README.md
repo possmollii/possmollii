@@ -26,8 +26,7 @@
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![Git](https://skillicons.dev/icons?i=git)
 ![Godot](https://skillicons.dev/icons?i=godot)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
+![VS Code](https://skillicons.dev/icons?i=vscode)
 ---
 - ### 🔄 Сейчас в фокусе
 
@@ -35,3 +34,4 @@
 
 **Хочу:** развиваться в сторону ML Engineer / AI Specialist
 
+![Profile views](https://komarev.com/ghpvc/?username=possmollii&style=flat-square&color=blueviolet)
