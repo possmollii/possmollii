@@ -26,6 +26,7 @@
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![Git](https://skillicons.dev/icons?i=git)
 ![Godot](https://skillicons.dev/icons?i=godot)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 - ### 🔄 Сейчас в фокусе
