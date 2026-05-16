@@ -3,8 +3,8 @@
 **Fullstack-разработчик, UI/UX дизайнер, Technical animator**
 
 🌎 Москва, Россия  
-📱 work.petrova.daria@gmail.com  
-📄 Telegram: @work.petrova.daria
+📧 st_mironn@mail.ru
+📲 Telegram: @possmollii
 
 ---
 
@@ -27,8 +27,9 @@
 ![Godot](https://skillicons.dev/icons?i=godot)
 
 ---
+- ### 🔄 Сейчас в фокусе
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+`LLM` `Fine-tuning` `PyTorch` `OpenAI API` `Hugging Face`
+
+**Хочу:** развиваться в сторону ML Engineer / AI Specialist
+
