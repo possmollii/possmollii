@@ -10,17 +10,14 @@
 
 ## Обо мне
 
-🇷🇺 Я фронтенд-разработчица из России
-
 - 💡 Люблю создавать что-то новое
-- 📚 Постоянно учу новое и прокачиваю скиллы
+- 📚 Постоянно учусь и прокачиваю скиллы
 - 🤝 Ищу команду, где смогу приносить пользу и расти профессионально
 - 🔍 Активно ищу работу
 
 ---
 
 ### Languages and Tools
-🌐 HTML   🎨 CSS   🐍 Python   🖌️ Figma   📦 Git   🎮 Godot Engine
 
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
@@ -35,8 +32,3 @@
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
