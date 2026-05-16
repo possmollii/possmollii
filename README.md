@@ -40,6 +40,12 @@
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
 
+
+![Figma](https://skillicons.dev/icons?i=figma)
+![After Effects](https://skillicons.dev/icons?i=ae)
+![Photoshop](https://skillicons.dev/icons?i=ps)
+![Illustrator](https://skillicons.dev/icons?i=ai)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
