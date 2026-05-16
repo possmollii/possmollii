@@ -27,6 +27,9 @@
 ![Git](https://skillicons.dev/icons?i=git)
 ![Godot](https://skillicons.dev/icons?i=godot)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
+![VS Code](https://skillicons.dev/icons?i=obsidian)
+![VS Code](https://skillicons.dev/icons?i=windows)
+
 ---
 - ### 🔄 Сейчас в фокусе
 
