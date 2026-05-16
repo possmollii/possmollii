@@ -19,32 +19,17 @@
 
 ---
 
-## Мои навыки
-
-- JavaScript
-- TypeScript
-- React (учусь)
-
 ### Languages and Tools
+🌐 HTML   🎨 CSS   🐍 Python   🖌️ Figma   📦 Git   🎮 Godot Engine
 
-| Категория | Технологии |
-|-----------|------------|
-| **Дизайн** | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![After Effects](https://img.shields.io/badge/-AE-9999FF?style=flat&logo=adobe-after-effects&logoColor=white) |
-| **Frontend** | ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) |
-
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=flat&logo=adobe-after-effects&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
-
-
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Python](https://skillicons.dev/icons?i=python)
 ![Figma](https://skillicons.dev/icons?i=figma)
-![After Effects](https://skillicons.dev/icons?i=ae)
-![Photoshop](https://skillicons.dev/icons?i=ps)
-![Illustrator](https://skillicons.dev/icons?i=ai)
+![Git](https://skillicons.dev/icons?i=git)
+![Godot](https://skillicons.dev/icons?i=godot)
+
+---
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
